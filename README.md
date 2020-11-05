@@ -3,6 +3,7 @@
 ### Refreshments 
 
 [Intro to Relational database](https://www.udacity.com/course/intro-to-relational-databases--ud197) 
+
 [Shell (command line) workshop](https://classroom.udacity.com/courses/ud206)
 
 
