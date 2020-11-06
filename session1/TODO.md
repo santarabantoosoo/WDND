@@ -1,6 +1,5 @@
 ## Use ba77a (بتاع الناصرية) for an illustration of CRUD with simple explanations
 
-*Apply rollback if an error occured* 
 
 ### PSQL
 
@@ -16,3 +15,5 @@
 2-    اضافة سندوتش  
 3-    حذف سندوتش   
 4-تعديل سندوتش (اضافة سلطة مثلا ) 
+
+* Remember Apply rollback if an error occured* 
