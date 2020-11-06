@@ -1,5 +1,7 @@
 ## Use ba77a (بتاع الناصرية) for an illustration of CRUD with simple explanations
 
+*Apply rollback if an error occured* 
+
 ### PSQL
 
 1- create schema   
