@@ -6,6 +6,8 @@
 
 [WSL for web development](https://docs.microsoft.com/en-us/windows/python/web-frameworks)
 
+[pip and virtual environment](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
+
 ### Refreshments 
 
 [Intro to Relational database](https://www.udacity.com/course/intro-to-relational-databases--ud197) 
