@@ -1,4 +1,4 @@
-## Use ba77a (بتاع الناصرية) for an illustration of CRUD and simple explanations
+## Use ba77a (بتاع الناصرية) for an illustration of CRUD with simple explanations
 
 ### PSQL
 
@@ -10,7 +10,7 @@
 
 ### Pseudo code (1 python and 1 HTML)
 
-1-    عرض سندوتش
-2-    اضافة سندوتش
-3-    حذف سندوتش 
+1-    عرض سندوتش  
+2-    اضافة سندوتش  
+3-    حذف سندوتش   
 4-تعديل سندوتش (اضافة سلطة مثلا ) 
