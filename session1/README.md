@@ -30,3 +30,10 @@
 
 [PSQL db connection commands](https://www.postgresqltutorial.com/psql-commands/) 
 
+### Flask resources
+
+[Flask mega tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+
+[Pretty printed](https://www.youtube.com/c/PrettyPrintedTutorials/playlists)
+
+[Hackers and slackers](https://hackersandslackers.com/series/build-flask-apps/)
