@@ -19,7 +19,7 @@
 
 ### Shortcuts 
 
-[push in one command (linux)](https://medium.com/@panjeh/makefile-git-add-commit-push-github-all-in-one-command-9dcf76220f48)
+[add commit push in one command - linux](https://medium.com/@panjeh/makefile-git-add-commit-push-github-all-in-one-command-9dcf76220f48)
 
 [work around in windows](https://stackoverflow.com/questions/32127524/how-to-install-and-use-make-in-windows) 
 
