@@ -4,7 +4,19 @@
 
 [SQLALCHEMY query methods](https://video.udacity-data.com/topher/2019/August/5d5a52af_query-cheat-sheet/query-cheat-sheet.pdf)
 
-### 
+
+### OOP 
+
+[Corey Shafer OOP playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
+
+[Codezilla OOP playlist in arabic](https://www.youtube.com/watch?v=fK2lLVqc8UY)
+
+### Flask 
+
+[Corey Shafer Flask playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH&app=desktop)
+
+
+### Others 
 
 [DB browser for SQLite](https://sqlitebrowser.org/dl/) 
 
