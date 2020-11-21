@@ -20,3 +20,6 @@ https://www.youtube.com/watch?v=iDrs1S_ySg4
 Creating Many-To-Many Relationships in Flask-SQLAlchemy - YouTube
 https://www.youtube.com/watch?v=OvhoYbjtiKc&feature=emb_logo
 
+backref vs back-populates
+https://stackoverflow.com/questions/51335298/concepts-of-backref-and-back-populate-in-sqlalchemy
+
