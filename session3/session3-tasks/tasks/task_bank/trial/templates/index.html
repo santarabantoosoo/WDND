@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <!-- CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous" />
+    <link rel="stylesheet" href="/static/css/style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Udacity Bank</title>
+</head>
+
+
+<body class="text-center">
+
+    <div class="container" id="frm_container">
+        <div id="x" class="col-12 text-center">
+            <div class="row text-center">
+                <div class="col-md-6">
+                    <form id='form' action="/account/create" method="post" class="frm">
+                        <div>
+                            <label for="first_name">Enter your first name</label>
+                            <input type="text" name="first_name" id="fname">
+                        </div>
+
+                        <div>
+                            <label for="last_name">Enter your last name</label>
+                            <input type="text" name="last_name" id="lname">
+                        </div>
+
+                        <div>
+                            <label for="init_balance">Enter your initial balance</label>
+                            <input type="number" name="init_balance" id="ibalance">
+                        </div>
+
+                        <input id="create_account" type="submit" value="Create Account">
+
+                    </form>
+                </div>
+
+                <div class="col-md-6">
+                    <form id='i_form' action="/account/inquire" method="post" class="frm">
+                        <div>
+                            <label for="acc_id">Enter your account id</label>
+                            <input type="text" name="acc_id" id="i_id">
+                        </div>
+
+                        <input id="open_account" type="submit" value="Access Account">
+
+                    </form>
+                </div>
+
+
+            </div>
+
+
+
+
+            <div class="frm">
+                <h3>
+                    User accounts
+                </h3>
+            </div>
+            <div class="frm">
+                <p>We have a total of {{data}} satisfied customers.</p>
+                <div id="greet"></div>
+            </div>
+
+            <div id="panel">
+                <button onclick="withdraw()">Withdraw</button>
+                <button onclick="deposit()">Deposit</button>
+                <button onclick="delete_account()">Delete</button>
+                <button id='svg_btn' onclick="create_saving()">Create Savings Account</button>
+
+            </div>
+            <div id='pan-nav'>
+                <div id="withdraw" class="withdraw">
+                    <form id='w_form' method="post" class="frm">
+                        <div>
+                            <label for="amount">Enter withdraw amount</label>
+                            <input type="number" name="amount" id="w_amount">
+                        </div>
+
+                        <input id='withdraw_button' type="submit" value="Withdraw">
+
+                    </form>
+                </div>
+                <div id="deposit" class="deposit">
+                    <form id='d_form' method="post" class="frm">
+                        <div>
+                            <label for="amount">Enter deposit amount</label>
+                            <input type="number" name="amount" id="d_amount">
+                        </div>
+
+                        <input id='deposit_button' type="submit" value="Deposit">
+
+                    </form>
+                </div>
+
+                <div id="del" class="del">
+
+                    <div>
+                        <label for="del_id">Do you want to delete your account?</label>
+                    </div>
+
+                    <button onclick='confirm_delete()'>Confirm</button>
+
+
+                </div>
+
+                <div id='sv' , class="sv">
+                    <label for="svg_amount">Enter Savings amount</label>
+                    <input type="number" name="svg_amount" id="s_amount">
+                    <button id='svg_submit' onclick='create_svg()'>Confirm</button>
+                </div>
+
+            </div>
+
+            <div id="op_message"></div>
+
+        </div>
+
+    </div>
+    </div>
+
+
+    <script src="./static/js/script.js"></script>
+</body>
+
+</html>

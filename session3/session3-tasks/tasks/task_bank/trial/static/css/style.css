@@ -1,0 +1,29 @@
+#x {
+    background-color: grey;
+    display: inline;
+    height: 100%;
+}
+
+#frm_container {
+    margin: auto;
+    min-height: 100%;
+    min-height: 100vh;
+
+    display: flex;
+    align-items: center;
+}
+
+.frm {
+    margin: auto;
+}
+
+#withdraw,
+#deposit,
+#del,
+#sv {
+    display: none;
+}
+
+#panel {
+    display: none;
+}
