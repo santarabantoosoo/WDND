@@ -1,0 +1,3 @@
+flask-sqlalchemy 
+flask-cors  
+pandas

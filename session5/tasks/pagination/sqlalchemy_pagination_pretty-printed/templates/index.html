@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <title>Pagination</title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      {% for thread in threads.items %}
+
+        <div class="alert alert-primary" role="alert">
+          {{ thread.title }}
+        </div>
+
+      {% endfor %}
+      
+      <!-- TODO Complete the missing parts  -->
+
+      <!-- {% for page in  -->
+
+        {% if page %}
+<!--  -->
+        {% else %}
+          ...
+        {% endif %}
+
+      <!-- {% endfor %} -->
+
+    </div><!-- /.container -->
+
+  </body>
+</html>
