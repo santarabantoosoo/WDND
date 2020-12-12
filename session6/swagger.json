@@ -1,0 +1,1 @@
+{"paths": {"/version": {"get": {"description": "Get the version information for our service", "responses": {"200": {"content": {"application/json": {"schema": {"type": "object", "properties": {"version": {"type": "string", "description": "Version number of our service"}}}}}}}}}}, "info": {"title": "Swagger Example", "version": "1.0.0"}, "openapi": "3.0.2"}
