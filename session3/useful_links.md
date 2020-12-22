@@ -20,6 +20,7 @@ https://www.youtube.com/watch?v=iDrs1S_ySg4
 Creating Many-To-Many Relationships in Flask-SQLAlchemy - YouTube
 https://www.youtube.com/watch?v=OvhoYbjtiKc&feature=emb_logo
 
-backref vs back-populates
-https://stackoverflow.com/questions/51335298/concepts-of-backref-and-back-populate-in-sqlalchemy
+
+[6 Leveling up with advanced SQLAlchemy queries | Building Python-based, database-driven web applications (with maps!) using Flask, SQLite, SQLAlchemy and MapBox](http://jonathansoma.com/tutorials/flask-sqlalchemy-mapbox/leveling-up-with-advanced-sqlalchemy-queries.html)
+*this is the link that is very similar to the 'distinct' task of the first project*
 
