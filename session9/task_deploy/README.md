@@ -14,7 +14,7 @@
 
 5- in the home directory, *git init* 
 
-6- *heroku git:remote -a <ur-app-name>    --> the one u named in step 3 
+6- *heroku git:remote -a [ur-app-name]    --> the one u named in step 3 
 
 7- Add a Procfile ==> note that it has no extension. Just Procfile
 
@@ -23,11 +23,11 @@
     -- web: waitress-serve --port=$PORT flasky:app         for windows
     
 8-  in ur terminal: 
-    a - pipenv install flask gunicorn 
-    b- pipenv shell 
-    c- git add .
-    d- git commit -m "initial commit"
-    e- git push heroku master 
+    a- pipenv install flask gunicorn   
+    b- pipenv shell   
+    c- git add .  
+    d- git commit -m "initial commit"  
+    e- git push heroku master   
 
 
 ### External Links  
