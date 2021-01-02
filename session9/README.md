@@ -12,6 +12,8 @@
 
 [Deployment of a slightly bigger app wwith database](https://medium.com/the-andela-way/deploying-a-python-flask-app-to-heroku-41250bda27d0)  
 
+[Deploying Applications with Heroku | Udacity Free Courses](https://www.udacity.com/course/deploying-applications-with-heroku--ud272)
+
 ***python anywhere***
 
 [Deploying Flask Apps Using Python Anywhere (2020) - YouTube](https://www.youtube.com/watch?v=5jbdkOlf4cY&list=PLssCT4JSGVsc-jOEj6HG282CaeobiC0TJ)
@@ -26,7 +28,16 @@
 
 [Flask celery](https://blog.miguelgrinberg.com/post/using-celery-with-flask)
 
+[Asynchronous Tasks in Python - Getting Started With Celery [2020] - YouTube](https://www.youtube.com/watch?v=THxCy-6EnQM)
+
+[Asynchronous Task in Flask Using Celery - YouTube](https://www.youtube.com/watch?v=iwxzilyxTbQ)
+
 [Flask-mail](https://pythonbasics.org/flask-mail/)
+
+[Flask-DebugToolbar — Flask-DebugToolbar 0.12.dev0 documentation](https://flask-debugtoolbar.readthedocs.io/en/latest/) 
+
+[Easier Debugging of Your Flask Apps With Debug Toolbar - YouTube](https://www.youtube.com/watch?v=ZEHGZnsbXgw)
+
 
 
 **Flask application factory**  
@@ -47,6 +58,11 @@
 [Docker Usage in 'The Flask Mega-Tutorial' by Miguel Grinberg - A Review · vsupalov.com](https://vsupalov.com/flask-megatutorial-review/)
 
 
+**Microservices**  
+
+[Scalable Microservices with Kubernetes | Udacity Free Courses](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
+
+
 **Kubernetes**  
 
 [The Illustrated Children's Guide to Kubernetes - YouTube](https://www.youtube.com/watch?v=4ht22ReBjno&list=PLssCT4JSGVsc-jOEj6HG282CaeobiC0TJ&index=2)
@@ -64,6 +80,10 @@
 
 [mjhea0/awesome-fastapi: A curated list of awesome things related to FastAPI](https://github.com/mjhea0/awesome-fastapi)
 
+[Migrating from Flask to FASTAPI](https://testdriven.io/blog/moving-from-flask-to-fastapi/)
+
+[university project using FASTAPI](https://github.com/ycd/universities)
+
 **Sync vs. Async**
 
 [Sync vs. Async Python: What is the Difference? - miguelgrinberg.com](https://blog.miguelgrinberg.com/post/sync-vs-async-python-what-is-the-difference) 
@@ -76,6 +96,7 @@
 
 [wsgi vs asgi in python](https://medium.com/analytics-vidhya/difference-between-wsgi-and-asgi-807158ed1d4c)
 
+[ASGI servers](https://dev.to/bowmanjd/the-three-python-asgi-servers-5447)
+
 [NGINIX vs Apache](https://kinsta.com/blog/nginx-vs-apache/)
 
-[ASGI servers](https://dev.to/bowmanjd/the-three-python-asgi-servers-5447)
