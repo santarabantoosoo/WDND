@@ -2,12 +2,23 @@
 
 **Deployment**   
 
+***list of options***
+
+[where to deploy flask](https://www.reddit.com/r/flask/comments/2321oc/easiest_and_fastest_way_to_host_flask_python/)
+
+***heroku***
+
 [deployment of a very simple app](https://medium.com/@abhishekori/damn-simple-flask-app-on-heroku-739948512c65) 
 
 [Deployment of a slightly bigger app wwith database](https://medium.com/the-andela-way/deploying-a-python-flask-app-to-heroku-41250bda27d0)  
 
+***python anywhere***
+
 [Deploying Flask Apps Using Python Anywhere (2020) - YouTube](https://www.youtube.com/watch?v=5jbdkOlf4cY&list=PLssCT4JSGVsc-jOEj6HG282CaeobiC0TJ)
 
+***Netlfiy***
+
+[flask deployment with netlify](https://medium.com/@francescaguiducci/how-to-build-a-simple-personal-website-with-python-flask-and-netlify-d800c97c283d)
 
 **Flask extensions**     
 
@@ -45,3 +56,26 @@
 [Get started with Kubernetes (using Python) | Kubernetes](https://kubernetes.io/blog/2019/07/23/get-started-with-kubernetes-using-python/) 
 
 [Running Flask on Kubernetes | TestDriven.io](https://testdriven.io/blog/running-flask-on-kubernetes/)
+
+
+**FASTAPI**
+
+[FastAPI documentation - very easy to use](https://fastapi.tiangolo.com/)
+
+[mjhea0/awesome-fastapi: A curated list of awesome things related to FastAPI](https://github.com/mjhea0/awesome-fastapi)
+
+**Sync vs. Async**
+
+[Sync vs. Async Python: What is the Difference? - miguelgrinberg.com](https://blog.miguelgrinberg.com/post/sync-vs-async-python-what-is-the-difference) 
+
+[Ignore All Web Performance Benchmarks, Including This One - miguelgrinberg.com](https://blog.miguelgrinberg.com/post/ignore-all-web-performance-benchmarks-including-this-one)
+
+[Flask running on asyncio! - miguel grinberg modifies flask/ still under development](https://reposhub.com/python/full-stack-web-frameworks/miguelgrinberg-aioflask.html)
+
+**Web servers and app servers**   
+
+[wsgi vs asgi in python](https://medium.com/analytics-vidhya/difference-between-wsgi-and-asgi-807158ed1d4c)
+
+[NGINIX vs Apache](https://kinsta.com/blog/nginx-vs-apache/)
+
+[ASGI servers](https://dev.to/bowmanjd/the-three-python-asgi-servers-5447)
