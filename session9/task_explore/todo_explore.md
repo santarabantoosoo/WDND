@@ -35,10 +35,9 @@ which decorator to use for running background tasks?
 
 [Asynchronous Tasks in Python - Getting Started With Celery [2020] - YouTube](https://www.youtube.com/watch?v=THxCy-6EnQM)
 
-
 7- ***another solution***    
 
-[Background Tasks - FastAPI]https://fastapi.tiangolo.com/tutorial/background-tasks/
+[Background Tasks - FastAPI](https://fastapi.tiangolo.com/tutorial/background-tasks/)
 
 8- what is the difference between the two async methods in python?
 
@@ -55,7 +54,7 @@ which decorator to use for running background tasks?
 
 11- deployment
 
-[wsgi vs asgi in python](https://medium.com/analytics-vidhya/difference-between-wsgi-and-asgi-807158ed1d4c)
+[What is ASGI and why do we need it? | Technoarch Softwares](https://www.technoarchsoftwares.com/blog/asgi/)
 
 12- Testing
 
@@ -75,4 +74,3 @@ d- documentation in general?
 14- Large application 
 
 [Bigger Applications - Multiple Files - FastAPI](https://fastapi.tiangolo.com/tutorial/bigger-applications/)
-

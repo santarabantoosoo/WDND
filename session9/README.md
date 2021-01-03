@@ -22,6 +22,10 @@
 
 [flask deployment with netlify](https://medium.com/@francescaguiducci/how-to-build-a-simple-personal-website-with-python-flask-and-netlify-d800c97c283d)
 
+***NGINIX/GUNICORN/SUPERVISOR/FLASK***
+
+[Deploy flask on NGINIX using gunicorn- MEDIUM](https://medium.com/ymedialabs-innovation/deploy-flask-app-with-nginx-using-gunicorn-and-supervisor-d7a93aa07c18)
+
 **Flask extensions**     
 
 [15 Useful Flask Extensions and Libraries That I Use in Every Project — Nick Janetakis](https://nickjanetakis.com/blog/15-useful-flask-extensions-and-libraries-that-i-use-in-every-project)
@@ -94,7 +98,7 @@
 
 **Web servers and app servers**   
 
-[wsgi vs asgi in python](https://medium.com/analytics-vidhya/difference-between-wsgi-and-asgi-807158ed1d4c)
+[What is ASGI and why do we need it? | Technoarch Softwares](https://www.technoarchsoftwares.com/blog/asgi/)
 
 [ASGI servers](https://dev.to/bowmanjd/the-three-python-asgi-servers-5447)
 

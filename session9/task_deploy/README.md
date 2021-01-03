@@ -20,7 +20,7 @@
 
     -- write in the file *web: gunicorn app:app*     
     
-    -- web: waitress-serve --port=$PORT flasky:app         for windows
+    -- web: waitress-serve --port=$PORT app:app         for windows
     
 8-  in ur terminal: 
     a- pipenv install flask gunicorn   
