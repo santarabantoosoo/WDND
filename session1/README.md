@@ -32,6 +32,8 @@
 
 ### Flask resources
 
+[Flask Tutorials - Corey schafer - YouTube](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
+
 [Flask mega tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
 [Pretty printed](https://www.youtube.com/c/PrettyPrintedTutorials/playlists)
