@@ -15,6 +15,8 @@
 
 [Corey Shafer Flask playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH&app=desktop)
 
+[VS Code Debug Configuration Flask Application - YouTube](https://www.youtube.com/watch?v=PJ8CgdLrZuo)
+
 
 ### Others 
 
