@@ -39,3 +39,8 @@
 [Pretty printed](https://www.youtube.com/c/PrettyPrintedTutorials/playlists)
 
 [Hackers and slackers](https://hackersandslackers.com/series/build-flask-apps/)
+
+
+### NoSQL
+
+[NoSQL course udacity - Google Search](https://www.google.com/search?q=nosql+course+udacity&oq=nosql+course+udacity+&aqs=chrome..69i57j33i160.14718j0j7&sourceid=chrome&ie=UTF-8)

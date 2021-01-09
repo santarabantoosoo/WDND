@@ -15,8 +15,9 @@
 
 [Corey Shafer Flask playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH&app=desktop)
 
-[VS Code Debug Configuration Flask Application - YouTube](https://www.youtube.com/watch?v=PJ8CgdLrZuo)
+[Debugging Flask App with Visual Studio Code IDE - YouTube](https://www.youtube.com/watch?v=UooqA0AXOaA)
 
+[Setting Up a Flask Application in Visual Studio Code - Miguel grinberg- YouTube](https://www.youtube.com/watch?v=UXqiVe6h3lA)
 
 ### Others 
 
