@@ -40,6 +40,9 @@
 
 [Hackers and slackers](https://hackersandslackers.com/series/build-flask-apps/)
 
+### SQL normalization
+
+[Basic Concept of Database Normalization - Simple Explanation for Beginners - YouTube](https://www.youtube.com/watch?v=xoTyrdT9SZI)
 
 ### NoSQL
 
