@@ -54,6 +54,13 @@ use `pip3 install psycopg2-binary` instead of `pip install psycopg2`
 3- [Installing psycopg2 on Windows (older versions) - YouTube](https://www.youtube.com/watch?v=EcEGyqzieo0)
 use `pip3 install psycopg2-binary` instead of `pip install psycopg2`
 
+## SQLite
+
+- [Download Engine Page for all OSs](https://www.sqlite.org/download.html)
+- [DB Browser for SQLite](https://sqlitebrowser.org/dl/)
+
+
+
 ## Flask getting started windows 
 
 [(3) How to Install and Use Flask on Windows for Beginners (2019) - YouTube](https://www.youtube.com/watch?v=QjtW-wnXlUY&list=UU-QDfvrRIDB6F0bIO4I4HkQ&index=10)
