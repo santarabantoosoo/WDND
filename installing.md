@@ -65,6 +65,8 @@ use `pip3 install psycopg2-binary` instead of `pip install psycopg2`
 
 # Some useful links for Linux/WSL users 
 
+[PostgreSQL In Windows Subsystem for Linux (WSL) | by Harshit Yadav | Medium](https://harshityadav95.medium.com/postgresql-in-windows-subsystem-for-linux-wsl-6dc751ac1ff3)
+
 [How to create postgresql user and database (both from terminal and from psql) - YouTube](https://www.youtube.com/watch?v=RySuQtMiBxQ)
 
 [How to start and stop PostgreSQL server? | TablePlus](https://tableplus.com/blog/2018/10/how-to-start-stop-restart-postgresql-server.html)
