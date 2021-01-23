@@ -20,7 +20,6 @@ app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///db.sqlite3'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False 
 db = SQLAlchemy(app)
-#db.init_app(app)
 
 class Customer(db.Model):
     id = db.Column(db.Integer, primary_key=True) 
@@ -133,9 +132,7 @@ def orders_with_code():
 def revenue_in_last_x_days(x_days=30):
     print('Revenue past x days')
     
-def average_fulfillment_time():
-    print('Average fulfillment time')
-    
+
 def get_customers_who_have_purchased_x_dollars(amount=500):
     print('All customers who have purchased x dollars')
     
