@@ -144,7 +144,7 @@ def revenue_in_last_x_days(x_days=30):
         .query(db.func.sum(Product.price))
         .join(order_product).join(Order)
         .filter(Order.order_date > (datetime.now() - timedelta(days=x_days))
-        ).scalar()
+        ).all()
     )
 
 def average_fulfillment_time():

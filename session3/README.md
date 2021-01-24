@@ -13,12 +13,13 @@ https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers/
 
 **Important for the project**
 
+[Flask-SQLAlchemy Basics | Pretty Printed](https://courses.prettyprinted.com/p/flask-sqlalchemy-basics)
+
 [Left Outer Join in Flask-SQLAlchemy - YouTube](https://www.youtube.com/watch?v=_HIY1lZKEw0)
 
 [Group By in Flask-SQLAlchemy - YouTube](https://www.youtube.com/watch?v=iDrs1S_ySg4)
 
 [Creating Many-To-Many Relationships in Flask-SQLAlchemy - YouTube](https://www.youtube.com/watch?v=OvhoYbjtiKc&feature=emb_logo)
-
 
 [6 Leveling up with advanced SQLAlchemy queries | Building Python-based, database-driven web applications (with maps!) using Flask, SQLite, SQLAlchemy and MapBox](http://jonathansoma.com/tutorials/flask-sqlalchemy-mapbox/leveling-up-with-advanced-sqlalchemy-queries.html)
 
