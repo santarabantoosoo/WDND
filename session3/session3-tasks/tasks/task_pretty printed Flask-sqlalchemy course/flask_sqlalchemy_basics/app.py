@@ -142,7 +142,6 @@ def make_shell_context():
     return {'db': db,
      'get_customers_who_have_purchased_x_dollars':
      get_customers_who_have_purchased_x_dollars,
-     'average_fulfillment_time': average_fulfillment_time,
      'revenue_in_last_x_days': revenue_in_last_x_days,
      'orders_with_code' : orders_with_code,
      'how_many_customers':how_many_customers,
