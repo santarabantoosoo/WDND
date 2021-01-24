@@ -11,6 +11,8 @@ How can the engine in SQLAlchemy handle connection pools and dialects
 https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers/   
 
 
+[Episode #264 10 tips every Flask developer should know - [Talk Python To Me Podcast]](https://talkpython.fm/episodes/show/264/10-tips-every-flask-developer-should-know)
+
 **Important for the project**
 
 [Flask-SQLAlchemy Basics | Pretty Printed](https://courses.prettyprinted.com/p/flask-sqlalchemy-basics)
