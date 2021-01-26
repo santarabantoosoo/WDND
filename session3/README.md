@@ -11,6 +11,10 @@ How can the engine in SQLAlchemy handle connection pools and dialects
 https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers/   
 
 
+[Advanced SQLAlchemy Features You Need To Start Using | by Martin Heinz | Towards Data Science](https://towardsdatascience.com/advanced-sqlalchemy-features-you-need-to-start-using-e6fc1ddafbdb)
+
+
+
 [Episode #264 10 tips every Flask developer should know - [Talk Python To Me Podcast]](https://talkpython.fm/episodes/show/264/10-tips-every-flask-developer-should-know)
 
 **Important for the project**
@@ -25,3 +29,4 @@ https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers/
 
 [6 Leveling up with advanced SQLAlchemy queries | Building Python-based, database-driven web applications (with maps!) using Flask, SQLite, SQLAlchemy and MapBox](http://jonathansoma.com/tutorials/flask-sqlalchemy-mapbox/leveling-up-with-advanced-sqlalchemy-queries.html)
 
+[Queries as Python Code with SQLAlchemy's Expression Language](https://hackersandslackers.com/database-queries-sqlalchemy-orm/)
