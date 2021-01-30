@@ -32,18 +32,19 @@ Replace the values in **.env.example** with your values and rename this file to 
 
 **Config.py** 
 
-1- set up secret key variable 
-2- load .env file
+1- set up secret key variable     
+2- load .env file  
 
-**forms.py**
-1- create a signup form to include [email - password - confirm password - title - website - birthday - recapthcha - submit]
-2- use appropriate field types and validations for the previous items 
+**forms.py**   
+1- create a signup form to include [email - password - confirm password - title - website - birthday - recapthcha - submit]  
+2- use appropriate field types and validations for the previous items   
 
 **routes.py**
 
 1- complete the sign up route
 
-Tip: u can use WTFORMS way of checking whether the request GET or POST   
+*Note: can use WTFORMS way of checking whether the request is GET or POST*
+   
 -----
 
 **Hackers and Slackers** tutorials are free of charge. If you found this tutorial helpful, a [small donation](https://www.buymeacoffee.com/hackersslackers) would be greatly appreciated to keep us in business. All proceeds go towards coffee, and all coffee goes towards more content.
