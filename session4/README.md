@@ -31,3 +31,8 @@
 [Handling Forms in Flask with Flask-WTF](https://hackersandslackers.com/flask-wtforms-forms/)
 
 [Flask WTForms - YouTube](https://www.youtube.com/playlist?list=PLXmMXHVSvS-C_T5JWEDWIc9yEM3Hj52-1)
+
+
+**Application factory**  
+
+[Demystifying Flask’s Application Factory](https://hackersandslackers.com/flask-application-factory/)
