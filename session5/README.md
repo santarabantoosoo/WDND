@@ -1,12 +1,15 @@
 ### Useful links 
 
-**General**  
+
+**CORS**  
+
+[Cross-Origin Resource Sharing. He is going to use python → but wants… | by Jae Duk Seo | Medium](https://medium.com/@SeoJaeDuk/cross-origin-resource-sharing-1d86699f6e51)
+
+[CORS : Simple vs Preflight request | by Pradeep kumar R | Medium](https://medium.com/@f2004392/cors-preflight-request-options-9d05b9248e5a)
+
+[How and Why You Should Avoid CORS in Single Page Apps | by Ashan Fernando | Bits and Pieces](https://blog.bitsrc.io/how-and-why-you-should-avoid-cors-in-single-page-apps-db25452ad2f8)
 
 [how-does-access-control-allow-origin-header-work](https://stackoverflow.com/questions/10636611/how-does-access-control-allow-origin-header-work) 
-
-[4 ways to add data from spreadsheet to SQLAlCHEMY model](https://www.codementor.io/@bruce3557/graceful-data-ingestion-with-sqlalchemy-and-pandas-pft7ddcy6) 
- 
-[flask_cheatsheet.pdf](https://s3.us-east-2.amazonaws.com/prettyprinted/flask_cheatsheet.pdf)
 
 [Definitive guide to solve CORS error, Access-Control-Allow-Origin in Python Flask APIs — arundhaj: ](https://www.arundhaj.com/blog/definitive-guide-to-solve-cors-access-control-allow-origin-python-flask.html)
 
@@ -40,6 +43,12 @@
 
 [Using Categories With Flask Message Flashing - YouTube](https://www.youtube.com/watch?v=lcVdZtVvnnk)
 
+
+**Others**  
+
+[4 ways to add data from spreadsheet to SQLAlCHEMY model](https://www.codementor.io/@bruce3557/graceful-data-ingestion-with-sqlalchemy-and-pandas-pft7ddcy6) 
+ 
+[flask_cheatsheet.pdf](https://s3.us-east-2.amazonaws.com/prettyprinted/flask_cheatsheet.pdf)
 
 
 

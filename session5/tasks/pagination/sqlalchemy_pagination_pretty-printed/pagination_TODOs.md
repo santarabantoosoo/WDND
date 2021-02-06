@@ -5,7 +5,7 @@ Each group should use the corresponding links
 **Aim:**   
 convince the other team with evidence that your method is better. 
 
-*Next: * Implementation 
+*Next:* Implementation 
     
 Task: sqlalchemy_pagination_pretty_printed in repo
 
@@ -13,10 +13,11 @@ Task:
 
 *For each task:*  
 
-display items and links at the top and bottom 
-display links for only two pages on each side of the current page 
-display links for a single page on each of the right and left end
-allow a 404 method to appear if the page requested was not found (using paginate argument)
+1- use paginate to display items   
+2- display links at the top and bottom of the web page    
+3- On both sides of the current page item in the footer, add links for two pages (2 next and 2 previous pages)  
+4- display links for the first page and the last page
+5- allow a 404 method to appear if the page requested was not found (using paginate argument)   
 
 *Side note:* what is missing from pretty printed and mentioned by miguel 
 
