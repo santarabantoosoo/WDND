@@ -66,6 +66,7 @@
 
 [Scalable Microservices with Kubernetes | Udacity Free Courses](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
 
+[What is a microservice architecture and it's advantages? - YouTube](https://www.youtube.com/watch?v=qYhRvH9tJKw)
 
 **Kubernetes**  
 
