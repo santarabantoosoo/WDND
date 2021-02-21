@@ -28,7 +28,6 @@ def create_app(test_config=None):
         })
 
 
-
     # TODO Add routes using try/expect whenever applicable
 
 

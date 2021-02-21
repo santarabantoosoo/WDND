@@ -10,6 +10,9 @@
 
 •	Rest API with pytest (TDD)   https://www.maxongzb.com/building-restful-api-with-flask-postman-and-pytest-part-3-read-time-20-mins/ 
 
+[Visual Studio Code (Windows) - Setting up a Python Development Environment and Complete Overview - YouTube](https://www.youtube.com/watch?v=-nh9rCzPJ20&t=87s)
+
+
 
 **API-spec extension** 
 
@@ -28,7 +31,6 @@
 
 [Welcome to Flask-RESTPlus’s documentation! — Flask-RESTPlus 0.13.0 documentation](https://flask-restplus.readthedocs.io/en/stable/) 
 
-
 [Building beautiful REST APIs using Flask, Swagger UI and Flask-RESTPlus - Michał Karzyński](https://michal.karzynski.pl/blog/2016/06/19/building-beautiful-restful-apis-using-flask-swagger-ui-flask-restplus/)
 
 
@@ -39,6 +41,6 @@
 
 [FastAPI](https://fastapi.tiangolo.com/)
 
-*another solution?*  
+*another solution?*    
 
 [Welcome to Flask-RESTX’s documentation! — Flask-RESTX 0.2.1.dev documentation](https://flask-restx.readthedocs.io/en/latest/)
