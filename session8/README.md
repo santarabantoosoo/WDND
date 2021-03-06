@@ -9,6 +9,7 @@
 [Flask-security extension](https://pythonhosted.org/Flask-Security/) 
 
 
+
 **Marshmallow**
 
 [Flask marshmallow - pretty printed - youtube - start watching from minute 6](https://www.youtube.com/watch?v=kRNXKzfYrPU)     
@@ -26,6 +27,7 @@
 
 [Flask limiter documentation](https://flask-limiter.readthedocs.io/en/stable/)
 
+[What Is Rate Limiting? | Rate Limiting and Bot | Cloudflare](https://www.cloudflare.com/learning/bots/what-is-rate-limiting/) 
 
 **Encryption**
 
