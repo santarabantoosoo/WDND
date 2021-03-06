@@ -5,6 +5,7 @@
 1- how to inspect the SQLALCHEMY query as an SQL statement? 
 2- how to display the view function parameters as well as cookies of a certain Flask request? 
 3- how to hide the toolbar in production?
+4- How to get the version for the currently installed flask extensions?
 
 [Flask-DebugToolbar — Flask-DebugToolbar 0.12.dev0 documentation](https://flask-debugtoolbar.readthedocs.io/en/latest/) 
 
@@ -25,7 +26,7 @@
 
 4- how templates work with email and jinja?
 
-5- solve the issue of slow mails using the link [The Flask Mega-Tutorial Part X: Email Support - miguelgrinberg.com](*https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-x-email-support)
+5- solve the issue of slow mails using the link [The Flask Mega-Tutorial Part X: Email Support - miguelgrinberg.com](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-x-email-support)
 
 6- ***a better option to make emails faster***   
 
@@ -68,8 +69,7 @@ open the link   [Moving from Flask to FastAPI | TestDriven.io](https://testdrive
 
 a- what does FASTAPI has to offer regarding validation?
 b- serialization and deserialization?
-c- CORS?
-d- documentation in general?
+c- documentation in general?
 
 14- Large application 
 

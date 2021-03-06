@@ -18,7 +18,7 @@
 
 [Deploying Flask Apps Using Python Anywhere (2020) - YouTube](https://www.youtube.com/watch?v=5jbdkOlf4cY&list=PLssCT4JSGVsc-jOEj6HG282CaeobiC0TJ)
 
-***Netlfiy***
+***Netlify***
 
 [flask deployment with netlify](https://medium.com/@francescaguiducci/how-to-build-a-simple-personal-website-with-python-flask-and-netlify-d800c97c283d)
 
@@ -41,7 +41,6 @@
 [Flask-DebugToolbar — Flask-DebugToolbar 0.12.dev0 documentation](https://flask-debugtoolbar.readthedocs.io/en/latest/) 
 
 [Easier Debugging of Your Flask Apps With Debug Toolbar - YouTube](https://www.youtube.com/watch?v=ZEHGZnsbXgw)
-
 
 
 **Flask application factory**  
@@ -105,3 +104,15 @@
 
 [NGINIX vs Apache](https://kinsta.com/blog/nginx-vs-apache/)
 
+
+**Async**  
+
+[(37) Integrating AIOHTTP Into a FastAPI App - YouTube](https://www.youtube.com/watch?v=BalvzyKg_4k)
+
+[Making API Requests in Python: aiohttp Client vs. Requests | by Ng Wai Foong | Jan, 2021 | Better Programming](https://betterprogramming.pub/making-api-requests-in-python-aiohttp-client-vs-requests-26a7025c39a6) 
+
+[(37) How to Speed Up API Requests With Async Python - YouTube](https://www.youtube.com/watch?v=ln99aRAcRt0)
+
+[(37) Python tricks: Demystifying async, await, and asyncio - YouTube](https://www.youtube.com/watch?v=tSLDcRkgTsY)
+
+[(37) Building Web Apps using FastAPI and Python | Async APIs | OCR App - YouTube](https://www.youtube.com/watch?v=JC5q22g3yQM)
