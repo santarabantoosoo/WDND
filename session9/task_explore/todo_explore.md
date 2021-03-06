@@ -48,6 +48,7 @@ which decorator to use for running background tasks?
 
 [Flask running on asyncio! - miguel grinberg modifies flask/ still under development](https://reposhub.com/python/full-stack-web-frameworks/miguelgrinberg-aioflask.html)
 
+[Ignore All Web Performance Benchmarks, Including This One - miguelgrinberg.com](https://blog.miguelgrinberg.com/post/ignore-all-web-performance-benchmarks-including-this-one)
 
 10- auto documentation
 
